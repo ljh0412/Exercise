@@ -1,1 +1,1 @@
-file generate test
+print('hi')
